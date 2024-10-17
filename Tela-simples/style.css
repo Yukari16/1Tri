@@ -1,0 +1,36 @@
+html {
+  height: 100%;
+  width: 100%;
+
+}
+
+body {
+  background-color: #ac80ed;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 80%;
+  color: #ffffff;
+}
+.container{
+  display: flex;
+}
+.col-e{
+   display: flex;
+  flex-direction: column;
+  width: 450px;
+}
+
+form {
+  display: center;
+  align-items: center;
+  justify-content: center;
+
+}
+
+button {
+  background-color: #ac80ed;
+  border: 1px dashed #7639fa;
+  color: #ffffff;
+  align-items: flex-end;
+}
