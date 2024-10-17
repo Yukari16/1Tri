@@ -1,0 +1,13 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background-color: #dac2ff;
+  display: flex;
+}
+
+.Emoji {
+  background-color: #9474c3;
+}
